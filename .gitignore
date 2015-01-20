@@ -1,0 +1,7 @@
+.settings/
+.project
+.pydevproject
+.*.html
+*.pyc
+*.mp3
+*.zip

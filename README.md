@@ -1,3 +1,6 @@
+Hello, I am Nicolas Cenerario and this is my main public repository.
+It will contain all my little projects and notes.
+
 #Delete Duplicate Files
 If you are like me, you have a lot of duplicate files on your hard drive.
 I'm doing so many backup that in the end, I get a lot of duplicates.
